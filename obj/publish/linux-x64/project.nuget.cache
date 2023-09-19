@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iLwNY19o8/9oKaJF91jVJkrX7XyuwFbcy/JZtmqkYLXhJk0SIlfmLciLeGOGBbzjkfWswrgF2a6zRYY+NP/25Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-pkothaveer\\Source\\Repos\\samplewebapp\\samplewebapp\\samplewebapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-pkothaveer\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.0-preview.7.23375.6\\microsoft.netcore.app.host.linux-x64.8.0.0-preview.7.23375.6.nupkg.sha512"
+  ],
+  "logs": []
+}

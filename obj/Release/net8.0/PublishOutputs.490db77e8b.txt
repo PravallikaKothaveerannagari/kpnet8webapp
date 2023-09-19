@@ -1,0 +1,7 @@
+C:\Users\v-pkothaveer\Source\Repos\samplewebapp\samplewebapp\obj\Release\net8.0\PubTmp\Out\samplewebapp.exe
+C:\Users\v-pkothaveer\Source\Repos\samplewebapp\samplewebapp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\v-pkothaveer\Source\Repos\samplewebapp\samplewebapp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\v-pkothaveer\Source\Repos\samplewebapp\samplewebapp\obj\Release\net8.0\PubTmp\Out\samplewebapp.dll
+C:\Users\v-pkothaveer\Source\Repos\samplewebapp\samplewebapp\obj\Release\net8.0\PubTmp\Out\samplewebapp.deps.json
+C:\Users\v-pkothaveer\Source\Repos\samplewebapp\samplewebapp\obj\Release\net8.0\PubTmp\Out\samplewebapp.runtimeconfig.json
+C:\Users\v-pkothaveer\Source\Repos\samplewebapp\samplewebapp\obj\Release\net8.0\PubTmp\Out\samplewebapp.pdb
